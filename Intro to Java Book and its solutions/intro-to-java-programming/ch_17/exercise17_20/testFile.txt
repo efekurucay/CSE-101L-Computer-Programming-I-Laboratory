@@ -1,0 +1,3 @@
+HHHHello read and write Binary Values!
+Read and write Binary Values!
+Binary Values????
